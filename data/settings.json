@@ -1,0 +1,10 @@
+{
+  "partner1Name": "Alex",
+  "partner1Password": "alex123",
+  "partner2Name": "Sam",
+  "partner2Password": "sam123",
+  "adminPassword": "admin123",
+  "openaiApiKey": "",
+  "questionTime": "09:00",
+  "relationshipStartDate": "2024-01-01"
+}
