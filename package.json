@@ -60,8 +60,8 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "latest",
-    "ws": "latest",
-    "zod": "latest"
+    "ws": "8.18.3",
+    "zod": "4.1.13"
   },
   "devDependencies": {
     "@types/node": "^22",
